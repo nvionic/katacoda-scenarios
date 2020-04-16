@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+This tutorial will introduce you to data encryption using the Machina CLI
