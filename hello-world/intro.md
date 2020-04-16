@@ -1,1 +1,1 @@
-This tutorial will introduce you to data encryption using the Machina CLI
+This tutorial will introduce you to the Machina CLI.
