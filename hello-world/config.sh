@@ -11,6 +11,6 @@ curl https://katacoda-machian.s3-us-west-1.amazonaws.com/prompt.sh > ~/bin/input
 chmod +x ~/bin/input.sh
 
 # set PATH so it includes user's private bin if it exists
-if [ -d "$HOME/bin" ] ; then
+#if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
-fi
+#fi
