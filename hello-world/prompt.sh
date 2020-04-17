@@ -9,4 +9,4 @@
 #then
 #    KEYSPACE=Magv
 #fi
-~/bin/input.sh
+#~/bin/input.sh
