@@ -7,4 +7,4 @@ chmod +x ~/bin/machina
 
 curl https://katacoda-machian.s3-us-west-1.amazonaws.com/prompt.sh > ~/bin/input.sh
 chmod +x ~/bin/input.sh
-input.sh
+~/bin/input.sh
