@@ -9,6 +9,8 @@ mkdir $HOME/bin
 curl https://katacoda-machian.s3-us-west-1.amazonaws.com/machina > $HOME/bin/machina
 chmod +x $HOME/bin/machina
 
+cp $HOME/bin/machina /usr/local/bin
+
 # Downlaod the input script that sets the ENV varibles
 curl https://katacoda-machian.s3-us-west-1.amazonaws.com/prompt.sh > $HOME/bin/input.sh
 chmod +x $HOME/bin/input.sh
