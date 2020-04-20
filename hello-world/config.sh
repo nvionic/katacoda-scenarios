@@ -6,11 +6,11 @@
 mkdir $HOME/bin
 
 #mkdir $HOME/bin
-curl https://katacoda-machian.s3-us-west-1.amazonaws.com/machina > ~/bin/machina
+curl https://katacoda-machian.s3-us-west-1.amazonaws.com/machina > $HOME/bin/machina
 chmod +x $HOME/bin/machina
 
 # Downlaod the input script that sets the ENV varibles
-curl https://katacoda-machian.s3-us-west-1.amazonaws.com/prompt.sh > ~/bin/input.sh
+curl https://katacoda-machian.s3-us-west-1.amazonaws.com/prompt.sh > $HOME/bin/input.sh
 chmod +x $HOME/bin/input.sh
 
 # set PATH so it includes user's private bin if it exists
