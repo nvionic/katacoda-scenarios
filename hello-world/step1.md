@@ -4,6 +4,8 @@ We will now use the values collected by an input script to enroll this device us
 
 Click on the _source_ command below to execute the script. It will set the **EMAIL** and **KEYSPACE** environment variables to the values you enter.
 
+`source input.sh`{{execute}}
+
 ## Enroll and create a profile using your Machina account
 
 Now, click on the _machina profile enroll_ command or type it into the **terminal**
