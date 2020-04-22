@@ -7,7 +7,7 @@
     "steps": [{
       "title": "Step 1 - Run Enroll Command",
       "text": "step1.md",
-      "code": "config.sh"
+      "courseData": "config.sh"
     }],
     "intro": {
       "text": "intro.md",
